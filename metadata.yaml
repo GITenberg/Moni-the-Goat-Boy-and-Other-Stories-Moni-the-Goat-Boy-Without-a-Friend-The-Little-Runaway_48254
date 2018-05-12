@@ -1,4 +1,8 @@
 _repo: Moni-the-Goat-Boy-and-Other-Stories-Moni-the-Goat-Boy-Without-a-Friend-The-Little-Runaway_48254
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48254-h/images/cover.jpg
 creator:
   author:
     agent_name: Spyri, Johanna
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2491
     wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48254#Moni-the-Goat-Boy-and-Other-Stories-Moni-the-Goat-Boy-Without-a-Friend-The-Little-Runaway
 gutenberg_issued: '2015-02-14'
 gutenberg_type: Text
 identifiers:
